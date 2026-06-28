@@ -201,7 +201,7 @@ PRD를 작성해줘.
 
 ### 02. 프로젝트 설정 파일 활용하기
 
-**[샘플 예제]** [Study-03-basic 다운로드](https://download-directory.github.io/?url=https://github.com/taehojo/vibecoding/tree/master/Study-03/Study-03-basic)
+**[샘플 예제]** [다운로드](https://download-directory.github.io/?url=https://github.com/taehojo/vibecoding/tree/master/Study-03/Study-03-basic)
 
 **퀴즈 문제 교차 검증 가이드라인** (CLAUDE.md에 추가)
 
