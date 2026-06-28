@@ -201,7 +201,7 @@ PRD를 작성해줘.
 
 ### 02. 프로젝트 설정 파일 활용하기
 
-**[샘플 예제]** [다운로드](https://github.com/taehojo/hanbit-class/raw/master/sample-quiz.zip)
+**[샘플 예제]** [다운로드](https://github.com/taehojo/vibeclass101/raw/master/sample-quiz.zip)
 
 **퀴즈 문제 교차 검증 가이드라인** (CLAUDE.md에 추가)
 
