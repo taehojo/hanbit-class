@@ -5,24 +5,6 @@
 
 <br/>
 
-## 빠른 시작
-
-설치가 끝났다면 터미널에서 `claude` 한 줄로 바로 시작합니다.
-
-**Windows (PowerShell)**
-
-```powershell
-irm https://claude.ai/install.ps1 | iex
-```
-
-**macOS / Linux**
-
-```bash
-curl -fsSL https://claude.ai/install.sh | bash
-```
-
-<br/>
-
 ## 목차
 
 | # | 주제 |
